@@ -3,9 +3,20 @@
 <head>
 <title>zagadou</title>
 <style>
-boy {background-color:powderblue;}
-h1 {color:orange;}
+body {background-color:powderblue;}
+h1 {color:blue;}
 </style>
-<h1>wifi_security</h1>
+<h1>school portal</h1>
+
+</head>
+
+<form action="/action_page.php">
+  <label for="username">Username:</label><br>
+  <input type="text" id="username" name="username"><br>
+  <label for="pwd">Adm:</label><br>
+  <input type="Adm" id="no" name="no"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
 
 
